@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(83, 68, 68);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: rgb(33, 9, 153);
+    box-shadow: 0px 3px 5px rgb(0, 0, 0);
+}
+a {
+    color: rgb(111, 111, 166);    
+}
+li{
+    color: rgb(11, 11, 11);
+    box-shadow: 0px 3px 5px rgb(0, 0, 0);
+    
+}
+#horas {
+    color: rgb(15, 15, 41);
+    box-shadow: 0px 3px 5px rgb(191, 156, 156);
+}
+h3 {
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 3px 5px rgb(0, 0, 0);
+}

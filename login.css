@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .home {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.in-flex {
+    flex: 1;
+    min-width: 290px;
+}
+  
+  body {
+    background-image: url('Img/Log.1.jpg');
+  }
+  
+  .form-register {
+    width: 400px;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(36, 35, 71);
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .form-register h1 {
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+    
+  .botons {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.5);    
+    border: none;
+    padding: 12px;
+    color: rgb(41, 51, 110);
+    margin: 16px 0;
+    font-size: 16px;
+  }

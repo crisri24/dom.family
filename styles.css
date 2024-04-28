@@ -1,0 +1,17 @@
+#container {
+    text-align: center;
+}
+.home {
+    display: flex;
+    flex-wrap: wrap;
+}
+.in-flex {
+    flex: 1;
+    min-width: 290px;
+}
+img {
+    width: 100%;
+}
+header {
+    margin: 5% 2%;
+}
